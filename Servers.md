@@ -28,5 +28,4 @@
 
 Virtualization uses servers called as [Rack Servers](https://th.bing.com/th/id/OIP.WE1E1W_gWXKTnHaVnezMigHaHa?rs=1&pid=ImgDetMain).
 
-[![Rack Server](https://i.dell.com/is/image/DellContent/content/dam/images/products/servers/poweredge/r740/dellemc-per740-24x25-bezel-lcd-2-above-ff-bold-reflection.psd?fmt=pjpg&pscan=auto&scl=1&wid=4600&hei=2504&qlt=100,1&resMode=sharp2&size=4600,2504&chrss=full&imwidth=5000)](https://www.dell.com/en-in/work/shop/ipovw/poweredge-r740)
-
+[![Rack Server](https://i.dell.com/is/image/DellContent/content/dam/images/products/servers/poweredge/r740/dellemc-per740-24x25-bezel-lcd-2-above-ff-bold-reflection.psd?fmt=pjpg&pscan=auto&scl=1&wid=4600&hei=2504&qlt=100,1&resMode=sharp2&size=4600,2504&chrss=full&imwidth=5000){width=500px }](https://www.dell.com/en-in/work/shop/ipovw/poweredge-r740)
