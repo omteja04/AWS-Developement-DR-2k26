@@ -21,7 +21,7 @@
 ## Challenges of maintaining physical servers
 
 - Power Maintenance
-- Time
+- Time taken process to setup a new server 
 - Difficult to achieve scalability in at all times
 
 `Virtualization is a concept which addresses all the challenges arose by using physical servers for all things.`
