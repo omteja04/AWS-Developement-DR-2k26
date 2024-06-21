@@ -15,22 +15,6 @@ The following are some of the Operations that can be performed with Cloud Comput
 - Development of new applications and services
 - Streaming videos and audio
 
-### Architecture of Cloud Computing:
-
-**Cloud computing** architecture refers to the components and sub-components required for cloud computing.
-These components typically refer to:
-
-<!-- cSpell:disable -->
-
-1. Front end ( Fat client, Thin client)
-2. Back-end platforms ( Servers, Storage )
-3. Cloud-based delivery and a network (Internet, Intranet, Intercloud)
-
-<center>
-<a href="https://www.geeksforgeeks.org/cloud-computing/?ref=lbp">
-<img alt="Architecture of Cloud Computing" src="https://media.geeksforgeeks.org/wp-content/uploads/20240429101404/Cloud-Computing-Architecture.webp" width=300px></a>
-</center>
-
 ### Types Of Cloud Deployment Models - Cloud Computing Types
 
 - Private Cloud
@@ -52,10 +36,6 @@ These components typically refer to:
   <img src="https://www.redhat.com/rhdc/managed-files/iaas-paas-saas-diagram5.1-1638x1046.png" alt="Cloud Services" ></a>
 
 ### Articles
-
-#### For Architecture Of Cloud Computing
-
-[GFG]("https://www.geeksforgeeks.org/cloud-computing/?ref=lbp)
 
 #### For Cloud Deployment Methods
 
