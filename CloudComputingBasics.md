@@ -4,6 +4,16 @@
   Description: CloudComputingBasics
 -->
 
+## Contents
+
+- [Contents](#contents)
+- [What Is Cloud Computing ???](#what-is-cloud-computing-)
+  - [Types Of Cloud Deployment Models - Cloud Computing Types](#types-of-cloud-deployment-models---cloud-computing-types)
+  - [Cloud Services](#cloud-services)
+  - [Articles](#articles)
+    - [For Cloud Deployment Methods](#for-cloud-deployment-methods)
+    - [For Cloud Services](#for-cloud-services)
+
 ## What Is Cloud Computing ???
 
 Cloud computing is the act of running workloads within clouds—which are IT environments that abstract, pool,and share scalable resources across a network.
@@ -15,18 +25,18 @@ The following are some of the Operations that can be performed with Cloud Comput
 - Development of new applications and services
 - Streaming videos and audio
 
-### Types Of Cloud Deployment Models - Cloud Computing Types
+### <a name="">Types Of Cloud Deployment Models - Cloud Computing Types</a>
 
 - Private Cloud
   - It provides an enhancement in protection and customization by cloud resource utilization as per particular specified requirements. It is perfect for companies which looking for security and compliance needs.
 - Public Cloud
-  - It comes with offering a pay-as-you-go principle for scalability and accessibility of cloud resources for numerous users. it ensures cost-effectiveness by providing enterprise-needed services.
+  - It comes with offering a `pay-as-you-go` principle for scalability and accessibility of cloud resources for numerous users. it ensures cost-effectiveness by providing enterprise-needed services.
 - Community Cloud
   - It allows systems and services to be accessible by a group of organizations. It is a distributed system that is created by integrating the services of different clouds to address the specific needs of a community, industry, or business.
 - Hybrid Cloud (Private + Public)
   - It comes up with a combination of elements of both private and public clouds providing seamless data and application processing in between environments. It offers flexibility in optimizing resources such as sensitive data in private clouds and important scalable applications in the public cloud.
 
-### Cloud Services
+### <a name="cloud-services">Cloud Services</a>
 
 - On-site
 - IaaS
