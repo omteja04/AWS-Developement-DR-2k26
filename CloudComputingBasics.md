@@ -25,7 +25,7 @@ The following are some of the Operations that can be performed with Cloud Comput
 - Development of new applications and services
 - Streaming videos and audio
 
-### <a name="">Types Of Cloud Deployment Models - Cloud Computing Types</a>
+### Types Of Cloud Deployment Models - Cloud Computing Types
 
 - Private Cloud
   - It provides an enhancement in protection and customization by cloud resource utilization as per particular specified requirements. It is perfect for companies which looking for security and compliance needs.
@@ -36,7 +36,7 @@ The following are some of the Operations that can be performed with Cloud Comput
 - Hybrid Cloud (Private + Public)
   - It comes up with a combination of elements of both private and public clouds providing seamless data and application processing in between environments. It offers flexibility in optimizing resources such as sensitive data in private clouds and important scalable applications in the public cloud.
 
-### <a name="cloud-services">Cloud Services</a>
+### Cloud Services
 
 - On-site
 - IaaS
